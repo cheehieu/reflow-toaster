@@ -1,0 +1,1 @@
+-l"./configPkg/linker.cmd" "./usr/UART_TxRx.obj" "./usr/LCD_driver.obj" "./usr/ADS1118.obj" "./main.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 
